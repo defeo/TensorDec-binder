@@ -1,1 +1,1 @@
-julia -e 'using Pkg; Pkg.clone("https://gitlab.inria.fr/AlgebraicGeometricModeling/TensorDec.jl.git")'
+julia -e 'using Pkg; Pkg.clone("https://gitlab.inria.fr/defeo/TensorDec.jl.git")'
